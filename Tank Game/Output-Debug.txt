@@ -1,0 +1,92 @@
+﻿'SFML_Playground.exe' (Win32): Loaded 'C:\Users\C00240102\Desktop\labs19-EthanRennick\Class Labs (sfml stuff)\lab 5\SFML_Playground\Debug\SFML_Playground.exe'. Symbols loaded.
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\SFML-2.5.1\bin\sfml-system-d-2.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\SFML-2.5.1\bin\sfml-window-d-2.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\SFML-2.5.1\bin\sfml-graphics-d-2.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+'SFML_Playground.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\ucrtbased.dll'
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\opengl32.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32full.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\user32.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp_win.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbase.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\win32u.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmm.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmmbase.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cfgmgr32.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\win32u.dll'. 
+'SFML_Playground.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\win32u.dll'
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\glu32.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Users\C00240102\Desktop\labs19-EthanRennick\Class Labs (sfml stuff)\lab 5\SFML_Playground\Debug\thor-d.dll'. 
+'SFML_Playground.exe' (Win32): Unloaded 'C:\Users\C00240102\Desktop\labs19-EthanRennick\Class Labs (sfml stuff)\lab 5\SFML_Playground\Debug\thor-d.dll'
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Users\C00240102\Desktop\labs19-EthanRennick\Class Labs (sfml stuff)\lab 5\SFML_Playground\Debug\thor-d.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\imm32.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\uxtheme.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\combase.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msctf.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\oleaut32.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\ki127018.inf_amd64_0f67ff47e9e30716\ig9icd32.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shell32.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\SHCore.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\windows.storage.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dwmapi.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\profapi.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dxgi.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\powrprof.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shlwapi.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptsp.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wtsapi32.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\crypt32.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msasn1.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ResourcePolicyClient.dll'. 
+'SFML_Playground.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\ResourcePolicyClient.dll'
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\version.dll'. 
+'SFML_Playground.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\version.dll'
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\ki127018.inf_amd64_0f67ff47e9e30716\igc32.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dinput8.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\InputHost.dll'. 
+'SFML_Playground.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\InputHost.dll'
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\InputHost.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\CoreMessaging.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\CoreUIComponents.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\twinapi.appcore.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\d2d1.dll'. 
+'SFML_Playground.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\d2d1.dll'
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\d3d11.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\propsys.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\WinTypes.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rmclient.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntmarta.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\d2d1.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\hid.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\setupapi.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcrypt.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\devobj.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wintrust.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\TextInputFramework.dll'. 
+'SFML_Playground.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ole32.dll'. 
+The thread 0x5d0 has exited with code 0 (0x0).
+The thread 0x10f0 has exited with code 0 (0x0).
+The thread 0x29b4 has exited with code 0 (0x0).
+The thread 0x2868 has exited with code 0 (0x0).
+The thread 0x2a2c has exited with code 0 (0x0).
+The thread 0x2bd4 has exited with code 0 (0x0).
+The thread 0x2608 has exited with code 0 (0x0).
+The thread 0x227c has exited with code 0 (0x0).
+The thread 0x838 has exited with code 0 (0x0).
+The thread 0x2340 has exited with code 0 (0x0).
+The program '[3348] SFML_Playground.exe' has exited with code 0 (0x0).
